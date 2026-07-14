@@ -1,0 +1,28 @@
+<svg viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="420" fill="#14151a"/>
+  <g opacity="0.25" stroke="#A8ABB8" stroke-width="1">
+    <line x1="0" y1="105" x2="800" y2="105"/>
+    <line x1="0" y1="210" x2="800" y2="210"/>
+    <line x1="0" y1="315" x2="800" y2="315"/>
+  </g>
+  <g transform="translate(400,185)">
+    <circle cx="0" cy="-10" r="34" fill="none" stroke="#D9A441" stroke-width="4"/>
+    <g stroke="#D9A441" stroke-width="4" stroke-linecap="round">
+      <line x1="0" y1="-60" x2="0" y2="-75"/>
+      <line x1="35" y1="-45" x2="46" y2="-56"/>
+      <line x1="-35" y1="-45" x2="-46" y2="-56"/>
+      <line x1="45" y1="-10" x2="60" y2="-10"/>
+      <line x1="-45" y1="-10" x2="-60" y2="-10"/>
+    </g>
+    <g transform="translate(0,60)">
+      <rect x="-70" y="-10" width="55" height="30" fill="none" stroke="#EB5E55" stroke-width="3"/>
+      <line x1="-52" y1="-10" x2="-52" y2="20" stroke="#EB5E55" stroke-width="2"/>
+      <line x1="-34" y1="-10" x2="-34" y2="20" stroke="#EB5E55" stroke-width="2"/>
+      <rect x="15" y="-10" width="55" height="30" fill="none" stroke="#EB5E55" stroke-width="3"/>
+      <line x1="33" y1="-10" x2="33" y2="20" stroke="#EB5E55" stroke-width="2"/>
+      <line x1="51" y1="-10" x2="51" y2="20" stroke="#EB5E55" stroke-width="2"/>
+    </g>
+  </g>
+  <text x="36" y="380" font-family="IBM Plex Mono, monospace" font-size="20" fill="#F2F1EA">solar-challange-week-0</text>
+  <text x="36" y="404" font-family="IBM Plex Mono, monospace" font-size="13" fill="#A8ABB8">Python · Analytics</text>
+</svg>
